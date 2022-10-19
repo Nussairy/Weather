@@ -1,0 +1,31 @@
+body {
+    background-color: #1E202B;
+}
+
+.home {
+    background-image: url("./imgs/banner.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#homeLink {
+    color: #009AD8 !important;
+    border-color: #009AD8 !important;
+}
+
+.navbar a {
+    color: white !important;
+}
+
+
+.navbar a:hover {
+    color: #009AD8 !important;
+    border: 1px solid #009AD8 !important;
+    border-radius: 50px;
+}
+
+.display{
+    width: 500px;
+    height: 350px;
+    background-color: #262936;
+}
